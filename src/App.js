@@ -48,7 +48,7 @@ function App() {
    
       <Routes>
         
-        <Route path='/Forminput' element={<Forminput showAlert={showAlert} mode={mode} />}/>
+        <Route path='/' element={<Forminput showAlert={showAlert} mode={mode} />}/>
         <Route path='/Howtouse' element={<Howtouse mode={mode} toggleMode={toggleMode} />}/>
         <Route path='/Contact' element={<Contact mode={mode} toggleMode={toggleMode} />}/>
                
