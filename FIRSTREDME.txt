@@ -1,0 +1,1 @@
+This is Mini Project of Lower to Uppercse WOrds or Paragraph using React States or you can searh on google react hooks then you can see about hooks or states .... after seeing this make use of css and then uplod on github
